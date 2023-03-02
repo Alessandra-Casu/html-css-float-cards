@@ -2,15 +2,20 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
-.container{
+.container{ 
+    font-family: 'Fredoka One', cursive;
     max-width: 1000px;
     margin-inline: auto;
     text-align: center;
 }
+    
+   
 
 h1{
+    font-weight: 400;
     color: deeppink;
     padding: 3rem;
 }
@@ -28,4 +33,16 @@ p{
     background-color: black;
     color: white;
     display: inline-block;
+    
+}
+
+.ph-Male1{
+    width: 5rem;
+    float: left;
+    contain: content"";
+}
+
+address{
+    color: cornflowerblue;
+    
 }
