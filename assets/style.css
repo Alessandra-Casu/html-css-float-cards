@@ -3,3 +3,29 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container{
+    max-width: 1000px;
+    margin-inline: auto;
+    text-align: center;
+}
+
+h1{
+    color: deeppink;
+    padding: 3rem;
+}
+
+p{
+    padding-bottom: 2rem;
+}
+
+.card{
+    width: 15rem;
+    height: 5rem;
+    margin-bottom: 3rem;
+    margin-right: 2rem;
+    margin-left: auto;
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
